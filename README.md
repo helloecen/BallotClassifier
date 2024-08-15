@@ -10,6 +10,7 @@ Dataset has 2 types of images: artificial images (made using Canva) and printed 
 Both types are using the same ballot template illustrated by Detik ([link](https://news.detik.com/pemilu/d-7062623/ini-desain-resmi-surat-suara-pilpres-2024-segera-didistribusikan)).
 - Dataset for model 1 consists of 490 artificial images and 24 printed images.
 - Dataset for model 2 consists of 240 artificial images and 12 printed images. (images from first model's valid class)
+
 ![image](https://github.com/user-attachments/assets/ebce8e93-a894-45c5-b55a-0a064f7ba391)
 
 # System Design
